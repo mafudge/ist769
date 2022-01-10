@@ -1,4 +1,3 @@
 #theme: minima
 remote_theme: pmarsceill/just-the-docs
-
-theme: jekyll-theme-slate
+color_scheme: dark
