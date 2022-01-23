@@ -8,19 +8,19 @@ This course provides a tour of relational, document, key-value, columnar, search
 
 Unit | Topic
 -----|-----
-A | [Introduction and Reviewing Relational](content/A-Intro/index.md)  
-B | [NoSQL Foundations](content/B-Foundations/index.md)
-C | [Hadoop](content/C-Hadoop/index.md)
-D | [Spark and Object Storage](content/D-Spark/index.md)
-E | [Schema-Free SQL with Drill](content/E-Schemaless-SQL/index.md)
-F | [Document Models](content/F-Document/index.md)
-G | [Wide Column Store Models](content/G-Widecolumn/index.md)
-H | [Key-Value Models](content/H-Keyvalue/index.md)
-I | [Graph Models](content/I-Graph/index.md)
-J | [Search Engine Models](content/J-Search/index.md)
+A | Introduction and Reviewing Relational
+B | NoSQL Foundations
+C | Hadoop
+D | Spark and Object Storage
+E | Schema-Free SQL with Drill
+F | Document Models
+G | Wide Column Store Models
+H | Key-Value Models
+I | Graph Models
+J | Search Engine Models
 K | Streaming Models
 
 
-## Other Links
+<!-- ## Other Links
 
-- [The NoSQL Guide](nosql.md)
+- [The NoSQL Guide](nosql.md) -->
